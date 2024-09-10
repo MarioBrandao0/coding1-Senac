@@ -1,4 +1,3 @@
-# Resumo - Aula 04/09
 <h1>Aula do dia 04/09</h1>
 
 
