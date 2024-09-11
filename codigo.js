@@ -1,3 +1,16 @@
+// Codigo para treino de variavel:
+    /*var nome_da_variavel = 'natalya';
+    var nome_da_variavel = 12345;
+    console.log(nome_da_variavel);
+    */
+
+
+/*nome = 'Maria'
+console.log('Hello' + ' ' + 'Word')
+console.log('Hello' + 'Word')
+console.log('Hello ' + nome)
+console.log(`Hello ${nome}`)*/
+
 const num1 = 10.50;
 const num2 = 10.36;
 const soma = num1 + num2;
