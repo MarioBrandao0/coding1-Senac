@@ -25,3 +25,5 @@ else if(salario > 3751.05){
 else{
     console.log(`Seu salario ${salario} esta muito baixo para ser taxado`)
 };
+
+console.log('TEstando upar pelo vscode')
