@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "node": "^22.9.0"
+    "node": "^22.9.0",
+    "prompt-sync": "^4.2.0"
   },
   "name": "coding1",
   "version": "1.0.0",
   "description": "<h1>Aula do dia 04/09</h1>",
   "main": "codigo.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
